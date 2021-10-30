@@ -4,7 +4,7 @@
 
 # Está ficando muito massa
 
-## Vários desáfios estão por vir nessa aplicação para listagem de tarefas e suas obrigações. 
+## Vários desáfios estão por vir nesta aplicação para listagem de tarefas e suas obrigações. 
 
 # Tecnologias: 
 ##### TypeScript
